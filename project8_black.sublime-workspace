@@ -1,0 +1,523 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ba",
+				"background\tproperty"
+			],
+			[
+				"fore",
+				"forecast"
+			],
+			[
+				"p",
+				"padding\tproperty"
+			],
+			[
+				"flex-",
+				"flex-wrap\tproperty"
+			],
+			[
+				"bor-",
+				"border-radius\tproperty"
+			],
+			[
+				"f",
+				"fixed\tposition"
+			],
+			[
+				"max-",
+				"max-height\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"flex",
+				"flex-wrap\tproperty"
+			],
+			[
+				"pad",
+				"padding-right\tproperty"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"border-bor",
+				"border-bottom-color\tproperty"
+			],
+			[
+				"marg",
+				"margin-right\tproperty"
+			],
+			[
+				"re",
+				"relative\tposition"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"r",
+				"right\tproperty"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"margi",
+				"margin-bottom\tproperty"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"trans",
+				"transition\tproperty"
+			],
+			[
+				"t",
+				"transition\tproperty"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"slid",
+				"slideUp〔function〕"
+			],
+			[
+				"pay",
+				"pay_method.html"
+			],
+			[
+				"a",
+				"auto\theight"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"modal",
+				"modal_link"
+			],
+			[
+				"insta",
+				"insta"
+			],
+			[
+				"fon",
+				"font-weight\tproperty"
+			],
+			[
+				"parse",
+				"parse_url〔function〕"
+			],
+			[
+				"list",
+				"list-style\tproperty"
+			],
+			[
+				"margn",
+				"margin-bottom\tproperty"
+			],
+			[
+				"quer",
+				"querySelector"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"cur",
+				"cursor\tproperty"
+			],
+			[
+				"d",
+				"display\tproperty"
+			],
+			[
+				"sli",
+				"slideDown〔function〕"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"live",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"livereloa",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/vers8_black",
+		"/C/xampp/htdocs/vers8_black/css",
+		"/C/xampp/htdocs/vers8_black/js"
+	],
+	"file_history":
+	[
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/functions 3.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/styles 3.css",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/single 2.php",
+		"/C/xampp/htdocs/vers8_black/css/styles.css",
+		"/C/xampp/htdocs/vers8_black/index.php",
+		"/C/xampp/htdocs/vers8_black/css/response_1023.css",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/styles 2.css",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/flexmenu.min.js",
+		"/C/xampp/htdocs/vers8_black/js/scripts.js",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/index 3.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/wp-config.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/.htaccess",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/rms_unique_wp_mu_pl_fl_nm2.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/wp-login.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/functions 2.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/rms_unique_wp_mu_pl_fl_nm.php",
+		"/C/xampp/htdocs/vers5_black/css/styles.css",
+		"/C/xampp/htdocs/vers5_black/index.php",
+		"/C/xampp/htdocs/vers5_black/js/scripts.js",
+		"/C/xampp/htdocs/vers5_black/css/response_1023.css",
+		"/C/xampp/htdocs/vers5_black/css/ion.rangeSlider.css",
+		"/C/xampp/htdocs/vers5_black/css/owl.carousel.css",
+		"/C/xampp/htdocs/vers_black/css/styles.css",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/front-page 2.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/footer.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/script.js",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/category.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/page-about.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/page.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/category-2.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/category-1.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/page-home.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/header 2.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/single.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/page-contact.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/index 3.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/response_479 2.css",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/index 2.php",
+		"/C/xampp/htdocs/vers_black/css/response_1023.css",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/functions 2.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/style 2.css",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/front-page.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/rates-page.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/style.css",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/page-kurs.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/styles.css",
+		"/C/xampp/htdocs/vers_black/css/response_1185.css",
+		"/C/xampp/htdocs/vers_black/css/response_479.css",
+		"/C/xampp/htdocs/vers_black/css/response_767.css",
+		"/C/xampp/htdocs/vers_black/index.html",
+		"/C/xampp/htdocs/vers_black/js/scripts.js",
+		"/C/xampp/htdocs/vers_black/css/ion.rangeSlider.css",
+		"/C/xampp/htdocs/vers_black/css/owl.carousel.css",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/functions.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/header.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/response_767.css",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/response_479.css",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/response_1169.css",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/response_1023.css",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/functions.js",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/scripts.js",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/sidebar.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/styles 2.css",
+		"/C/xampp/htdocs/vers2/css/response_479.css",
+		"/C/xampp/htdocs/vers2/index.html",
+		"/C/xampp/htdocs/vers2/js/scripts.js",
+		"/C/xampp/htdocs/vers2/css/styles.css",
+		"/C/xampp/htdocs/vers2/css/response_1023.css",
+		"/C/xampp/htdocs/vers2/article.html",
+		"/C/xampp/htdocs/vers00/gallery.html",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/index-2.html",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/functions.js",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/scripts.js",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/page-home 2.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/page-about.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/single 5.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/flexmenu3.min.js",
+		"/C/xampp/htdocs/vers2/js/flexmenu.min.js",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/style.css",
+		"/C/xampp/htdocs/leon/wp-content/themes/raten/functions.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/functions.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/home.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/description.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/katalog.php",
+		"/E/шлак 2020/lestnitsa/woocommerce/single-product/tabs/additional-information.php",
+		"/E/шлак 2020/lestnitsa/functions.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/content-single-product.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/single.php",
+		"/C/xampp/htdocs/vers2/css/response_767.css",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/styles.css",
+		"/C/xampp/htdocs/vers2/cart_empty.html",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/header.php",
+		"/C/Users/RaTeN/Downloads/functions.php",
+		"/C/Users/RaTeN/Downloads/functions (1).php",
+		"/C/xampp/htdocs/vers2/category.html",
+		"/C/xampp/htdocs/vers2/css/response_1185.css",
+		"/C/Users/RaTeN/Downloads/Shape (12).svg",
+		"/C/xampp/htdocs/vers2/checkout_success.html",
+		"/C/xampp/htdocs/vers2/product.html",
+		"/C/xampp/htdocs/vers2/index5.html",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/products-include.php",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/megakassa_703fd6f1980f.txt",
+		"/C/Users/RaTeN/OneDrive/Desktop/Новая папка (8)/i2.svg",
+		"/C/xampp/htdocs/vers2/contacts.html",
+		"/C/xampp/htdocs/vers2/index2.html",
+		"/C/xampp/htdocs/vers2/index3.html",
+		"/C/xampp/htdocs/vers2/index4.html",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/category-27.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/author.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/page-feed.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/page-new.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/page-prognoz.php",
+		"/C/xampp/htdocs/bonus/wp-content/themes/raten3/css2/styles.css",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/related_posts.php",
+		"/C/xampp/htdocs/bonus/wp-content/themes/raten3/strategies.html",
+		"/C/xampp/htdocs/bonus/wp-content/themes/raten3/+bonus.html",
+		"/C/xampp/htdocs/bonus/wp-content/themes/raten3/forecast.html",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/single-forecast.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/index.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/related_posts2.php",
+		"/C/xampp/htdocs/bonus/wp-content/themes/raten3/capper.html",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/taxonomy-forecasts.php",
+		"/C/xampp/htdocs/bonus/wp-content/themes/raten3/page-test.php",
+		"/C/xampp/htdocs/bonus/wp-content/themes/raten3/page-home.php",
+		"/C/xampp/htdocs/bonus/wp-content/themes/raten2/css/styles.css",
+		"/C/xampp/htdocs/bonus/wp-content/themes/raten2/index.html",
+		"/C/xampp/htdocs/vers/index5.html"
+	],
+	"find":
+	{
+		"height": 48.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"posts fix\"",
+			".article_info .head .info .title",
+			"WP_DEBUG",
+			"rms_remote_manager_init",
+			"rms-script-ini",
+			"place",
+			".form textarea",
+			".prices .item .desc",
+			".block_head .desc",
+			".text_block",
+			".block_head .title",
+			"main_color1",
+			"header .logo"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 58.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.nodejs":
+	{
+		"height": 106.0
+	},
+	"pinned_build_system": "",
+	"project": "project8_black.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 640.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\xampp\\htdocs\\vers8\\project8.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 259.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
