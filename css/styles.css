@@ -2796,7 +2796,7 @@ aside > *:last-child
 }
 .how_we_work .info
 {
-    width: 510px;
+
     max-width: calc(100% - 554px);
 }
 
