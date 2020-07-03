@@ -2010,7 +2010,7 @@ aside .search :-ms-input-placeholder
 
 aside .search .input
 {
-    color: var(--text_color);
+    color: #000;
     font-family: var(--font_family);
     font-size: 14px;
     line-height: 17px;
