@@ -1504,9 +1504,8 @@ header .menu .sub_menu a
 header .menu .sub_menu a:hover,
 header .menu .sub_menu a.active
 {
-    color: #fff;
-
-    background: var(--main_color2);
+color: var(--main_color2);
+    background: #fff;
 }
 
 header .menu .sub_menu div:first-child a:hover
@@ -1575,9 +1574,8 @@ header .menu .flexMenu-viewMore > a span:after
 header .menu .flexMenu-viewMore:hover > a,
 header .menu .flexMenu-viewMore.active > a
 {
-    color: #fff;
-
-    background: var(--main_color2);
+color: var(--main_color2);
+    background: #fff;
 }
 
 header .menu .flexMenu-popup
@@ -1644,9 +1642,8 @@ header .menu .flexMenu-popup .item > a .icon
 header .menu .flexMenu-popup .item a:hover,
 header .menu .flexMenu-popup .item a.active
 {
-    color: #fff;
-
-    background: var(--main_color2);
+color: var(--main_color2);
+    background: #fff;
 }
 
 header .menu .flexMenu-popup .sub_menu,
@@ -8363,4 +8360,22 @@ header.fixed .info {
 
 .about .text_block, .about_video .text_block{
     color:#000;
+}
+
+
+.poll .desc ul, .poll .desc ol, .text_block ul, .text_block ol{
+    margin: 30px 0 30px 50px;
+}
+
+.poll .desc table, .text_block table{
+    margin:20px 0;
+}
+
+
+.poll .desc table td, .text_block table td{
+    padding: 20px;
+}
+
+.product_info .description{
+    overflow: auto;
 }
