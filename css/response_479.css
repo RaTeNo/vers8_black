@@ -1130,4 +1130,13 @@
         margin-top: -60px;
     }
 
+    .product_info .buy .price{
+        flex-wrap: wrap;
+    }
+    .product_info .buy .price .val + .val{
+        width: 100%;
+        text-align: right;
+    }
+
+
 }
