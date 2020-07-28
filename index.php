@@ -140,9 +140,16 @@
 										</a>
 						
 										<div class="sub_menu">
-											<div><a href="/">Пункт меню</a></div>
-											<div><a href="/">Пункт меню</a></div>
-											<div><a href="/">Пункт меню</a></div>
+											<div class="item"><a href="/">Пункт меню</a></div>
+											<div class="item">
+												<a href="/" class="sub_link"><span>Пункт меню</span></a>
+												<div class="sub_menu">
+													<div><a href="/">Пункт меню</a></div>
+													<div><a href="/">Пункт меню</a></div>
+													<div><a href="/">Пункт меню</a></div>
+												</div>
+											</div>
+											<div class="item"><a href="/">Пункт меню</a></div>
 										</div>
 									</li>
 						
@@ -168,9 +175,16 @@
 										</a>
 						
 										<div class="sub_menu">
-											<div><a href="/">Пункт меню</a></div>
-											<div><a href="/">Пункт меню</a></div>
-											<div><a href="/">Пункт меню</a></div>
+											<div class="item"><a href="/">Пункт меню</a></div>
+											<div class="item">
+												<a href="/" class="sub_link"><span>Пункт меню</span></a>
+												<div class="sub_menu">
+													<div><a href="/">Пункт меню</a></div>
+													<div><a href="/">Пункт меню</a></div>
+													<div><a href="/">Пункт меню</a></div>
+												</div>
+											</div>
+											<div class="item"><a href="/">Пункт меню</a></div>
 										</div>
 									</li>
 						
