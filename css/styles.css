@@ -1444,7 +1444,7 @@ header .menu .item:hover > a.touch_link + .sub_menu
 
     visibility: hidden;
 
-    min-width: 100%;
+    min-width: auto;
 
     transition: .2s linear;
 
@@ -8490,5 +8490,5 @@ header .flexMenu-popup .item .item .sub_menu{
 }
 
 header .flexMenu-popup .item .item:hover .sub_menu{
-    left: -100%;
+    left: auto;
 }
