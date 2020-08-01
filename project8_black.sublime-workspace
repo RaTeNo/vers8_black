@@ -238,9 +238,9 @@
 	],
 	"file_history":
 	[
+		"/C/xampp/htdocs/vers8_black/css/styles.css",
 		"/C/xampp/htdocs/vers8_black/js/functions.js",
 		"/C/xampp/htdocs/vers8_black/index.php",
-		"/C/xampp/htdocs/vers8_black/css/styles.css",
 		"/C/xampp/htdocs/vers8_black/css/response_1023.css",
 		"/C/xampp/htdocs/vers8_black/js/scripts.js",
 		"/C/xampp/htdocs/vers8_black/category.html",
@@ -500,7 +500,7 @@
 		[
 			[
 				"",
-				"C:\\xampp\\htdocs\\vers8\\project8.sublime-project"
+				"C:\\xampp\\htdocs\\vers2\\project2.sublime-project"
 			]
 		],
 		"width": 380.0
