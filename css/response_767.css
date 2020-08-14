@@ -1520,6 +1520,9 @@
         margin-bottom: 0px;
         margin-top: -50px;
     }
+     .products_category .flex>*{
+        width: calc(50% - 23px);
+    }
 
 }
 
