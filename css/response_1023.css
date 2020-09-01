@@ -366,10 +366,7 @@
         height: 100vh;
         padding: 30px;
 
-        pointer-events: none;
-
-        column-gap: 30px;
-        column-count: 2;
+        pointer-events: auto;
     }
 
     aside .filter > *
@@ -1715,5 +1712,13 @@
 
     header .menu .item a.touch_link + .sub_menu.show .sub_menu a{
         padding-left:50px;
+    }
+
+    .block_checkform{
+        flex-wrap: wrap;
+    }
+
+    .tab_filter_title{
+        color:#fff;
     }
 }
