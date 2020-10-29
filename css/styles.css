@@ -7043,7 +7043,7 @@ font-family: AGOpus;
     justify-content: center;
     align-items: stretch;
     align-content: stretch;
-    background-color: #F7F7F7;
+    background-color: transparent !important;
 }
 .contacts_info .info .flex > *
 {
@@ -7114,11 +7114,11 @@ font-family: AGOpus;
     font-size: 22px;
     line-height: 26px;
     text-align: center;
-    color: #3A3A3A;
+    color: #fff;
 }
 .contacts_info .info .val
 {
-    color: #777;
+    color: #fff;
     font-size: 16px;
     line-height: 28px;
 
@@ -7132,7 +7132,7 @@ font-family: AGOpus;
 }
 .contacts_info .info .val a
 {
-    color: #68adff;
+    color: #fff;
 
     display: inline-block;
 
