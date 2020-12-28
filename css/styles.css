@@ -176,6 +176,7 @@ button[type=reset]
     --font_size: 17px;
     --font_size_title: 51px;
     --font_family: 'SF Pro Display', 'Arial', sans-serif;
+    --font_family2: "AGOpus", 'Arial', sans-serif;
     --box-shadow-color: rgba(234, 74, 74, .3);
     --main_color1: #EA4A4A;
     --main_color2: #EA4A4A;
@@ -380,7 +381,7 @@ body.lock
     font-size: var(--font_size_title);
     font-weight: bold;
     line-height: 61px;
-    font-family: AGOpus;
+    font-family: var(--font_family2);
     position: relative;
 
     padding-bottom: 32px;
@@ -1175,7 +1176,7 @@ header .logo .name
     font-size: 16px;
     font-weight: 900;
     line-height: 16px;
-    font-family: AGOpus;
+    font-family: var(--font_family2);
     transition: .3s;
     letter-spacing: -1.36px;
 }
@@ -1911,7 +1912,7 @@ aside .block .title
     align-items: center;
     align-content: center;
     flex-wrap: wrap;
-    font-family: AGOpus;
+    font-family: var(--font_family2);
     font-style: normal;
     font-weight: bold;
     font-size: 23px;
@@ -2229,7 +2230,7 @@ aside > *:last-child
 .first_section .info .title
 {
     position: relative;
-    font-family: AGOpus;
+    font-family: var(--font_family2);
     font-style: normal;
     font-weight: bold;
     font-size: 51px;
@@ -2406,7 +2407,7 @@ aside > *:last-child
     max-width: 100%;
     margin: 0 auto;
     padding-bottom: 32px;
-    font-family: AGOpus;
+    font-family: var(--font_family2);
     font-style: normal;
     font-weight: bold;
     font-size: 51px;
@@ -2464,7 +2465,7 @@ aside > *:last-child
     max-width: 100%;
     margin: 0 auto;
     padding-bottom: 32px;
-    font-family: AGOpus;
+    font-family: var(--font_family2);
     font-style: normal;
     font-weight: bold;
     font-size: 51px;
@@ -2556,7 +2557,7 @@ aside > *:last-child
 {
     position: relative;
     padding-bottom: 32px;
-    font-family: AGOpus;
+    font-family: var(--font_family2);
     font-style: normal;
     font-weight: bold;
     font-size: 51px;
@@ -2691,7 +2692,7 @@ aside > *:last-child
     font-weight: bold;
     line-height: 38px;
     margin-bottom: 20px;
-    font-family: AGOpus;
+    font-family: var(--font_family2);
 }
 
 .advantages .item .desc
@@ -2811,7 +2812,7 @@ aside > *:last-child
 
 .how_we_work .info .item:before
 {
-    font-family: AGOpus;
+    font-family: var(--font_family2);
     color: #fff;
     font-size: 59px;
     font-weight: 800;
@@ -2859,7 +2860,7 @@ aside > *:last-child
 
 .how_we_work .info .item .name
 {
-    font-family: AGOpus;
+    font-family: var(--font_family2);
     font-weight: bold;
     font-size: 18px;
     line-height: 22px;
@@ -3026,7 +3027,7 @@ aside > *:last-child
 {
     position: relative;
     margin-top: 20px;
-    font-family: AGOpus;
+    font-family: var(--font_family2);
     font-style: normal;
     font-weight: bold;
     font-size: 36px;
@@ -3218,7 +3219,7 @@ aside > *:last-child
 
 .articles .article .name
 {
-    font-family: AGOpus;
+    font-family: var(--font_family2);
     font-style: normal;
     font-weight: bold;
     font-size: 28px;
@@ -3498,7 +3499,7 @@ aside > *:last-child
 {
     margin-top: 15px;
     flex: 0 0 auto;
-    font-family: AGOpus;
+    font-family: var(--font_family2);
     font-style: normal;
     font-weight: bold;
     font-size: 52px;
@@ -3643,7 +3644,7 @@ aside > *:last-child
     transition: color .2s linear;
     justify-content: space-between;
     align-items: center;
-    font-family: AGOpus;
+    font-family: var(--font_family2);
     font-style: normal;
     font-weight: bold;
     font-size: 24px;
@@ -3854,7 +3855,7 @@ aside > *:last-child
 
 .contacts_block .info {
 
-font-family: AGOpus;
+font-family: var(--font_family2);
     color: #000;
     font-size: 36px;
     font-weight: bold;
@@ -4047,7 +4048,7 @@ font-family: AGOpus;
     display: inline-block;
     vertical-align: top;
     text-decoration: none;
-    font-family: AGOpus;
+    font-family: var(--font_family2);
     font-style: normal;
     font-weight: bold;
     font-size: 25px;
@@ -4175,7 +4176,7 @@ font-family: AGOpus;
 
 .team .item .name
 {
-    font-family: AGOpus;
+    font-family: var(--font_family2);
     font-style: normal;
     font-weight: bold;
     font-size: 36px;
@@ -4522,7 +4523,7 @@ margin-top: 14px;
     padding-bottom: 15px;
     vertical-align: top;
     text-decoration: none;
-    font-family: AGOpus;
+    font-family: var(--font_family2);
     font-weight: bold;
     font-size: 30px;
     line-height: 35px;
@@ -4752,7 +4753,7 @@ margin-top: 14px;
 {
     margin-top: 15px;
     word-break: break-word;
-    font-family: AGOpus;
+    font-family: var(--font_family2);
     font-style: normal;
     font-weight: bold;
     font-size: 25px;
@@ -5013,7 +5014,7 @@ margin-top: 14px;
 
 .products .product .name
 {
-    font-family: AGOpus;
+    font-family: var(--font_family2);
     font-style: normal;
     font-weight: bold;
     font-size: 20px;
@@ -5036,7 +5037,7 @@ margin-top: 14px;
 .products .product .price
 {
     margin-top: 2px;
-    font-family: AGOpus;
+    font-family: var(--font_family2);
     font-style: normal;
     font-weight: bold;
     font-size: 25px;
@@ -5166,7 +5167,7 @@ margin-top: 14px;
 {
     width: 350px;
     max-width: 100%;
-    font-family: AGOpus;
+    font-family: var(--font_family2);
     font-style: normal;
     font-weight: bold;
     font-size: 16px;
@@ -5317,7 +5318,7 @@ margin-top: 14px;
 {
     color: var(--main_color2);
     margin-left: 20px;
-    font-family: AGOpus;
+    font-family: var(--font_family2);
     font-style: normal;
     font-weight: bold;
     font-size: 25px;
@@ -5388,7 +5389,7 @@ margin-top: 14px;
 .checkout_info .form .total_price .val
 {
     margin-left: 20px;
-    font-family: AGOpus;
+    font-family: var(--font_family2);
     font-style: normal;
     font-weight: bold;
     font-size: 39px;
@@ -5519,7 +5520,7 @@ color: var(--main_color1);
 .product_info .product_name
 {
     color: #fff;
-    font-family: AGOpus;
+    font-family: var(--font_family2);
     font-style: normal;
     font-weight: bold;
     font-size: 30px;
@@ -5582,7 +5583,7 @@ color: var(--main_color1);
 .product_info .buy .price .val
 {
     color: var(--main_color2);
-    font-family: AGOpus;
+    font-family: var(--font_family2);
     font-style: normal;
     font-weight: bold;
     font-size: 39px;
@@ -5920,7 +5921,7 @@ color: var(--main_color1);
 .article_info .head .info .title
 {
     color: #fff;
-    font-family: AGOpus;
+    font-family: var(--font_family2);
     font-style: normal;
     font-weight: bold;
     font-size: 30px;
@@ -6104,7 +6105,7 @@ color: var(--main_color1);
     align-items: stretch;
     align-content: stretch;
     flex-wrap: wrap;
-    font-family: AGOpus;
+    font-family: var(--font_family2);
     font-style: normal;
     font-weight: bold;
     font-size: 60px;
@@ -6438,7 +6439,7 @@ color: var(--main_color1);
 
 .image_tips .image .info .name
 {
-    font-family: AGOpus;
+    font-family: var(--font_family2);
     font-style: normal;
     font-weight: bold;
     font-size: 24px;
@@ -6915,7 +6916,7 @@ color: var(--main_color1);
 
 .quiz_poll .step .title
 {
-font-family: AGOpus;
+font-family: var(--font_family2);
     font-style: normal;
     font-weight: bold;
     font-size: 30px;
@@ -7108,7 +7109,7 @@ font-family: AGOpus;
     width: 100%;
     margin-top: 33px;
     margin-bottom: 15px;
-    font-family: AGOpus;
+    font-family: var(--font_family2);
     font-style: normal;
     font-weight: bold;
     font-size: 22px;
@@ -7265,7 +7266,7 @@ font-family: AGOpus;
 
 
 .news .article .name {
-    font-family: AGOpus;
+    font-family: var(--font_family2);
     font-style: normal;
     font-weight: bold;
     font-size: 28px;
@@ -7669,7 +7670,7 @@ footer .links a:hover
 {
     color: #272727;
     margin-top: 10px;
-    font-family: AGOpus;
+    font-family: var(--font_family2);
     font-style: normal;
     font-weight: bold;
     font-size: 38px;
@@ -7911,7 +7912,7 @@ footer .links a:hover
 
 .gallery2 .item .info .name
 {
-    font-family: AGOpus;
+    font-family: var(--font_family2);
     font-style: normal;
     font-weight: bold;
     font-size: 25px;
@@ -8098,7 +8099,7 @@ aside .submit .reset i:after
 {
     color: #fff;
     margin-top: 10px;
-    font-family: AGOpus;
+    font-family: var(--font_family2);
     font-style: normal;
     font-weight: bold;
     font-size: 38px;
@@ -8407,7 +8408,7 @@ header.fixed .info {
 
 .products_category .info .name{
     margin-top: 20px;
-    font-family: AGOpus;
+    font-family: var(--font_family2);
     font-style: normal;
     font-weight: bold;
     font-size: 28px;
@@ -8428,7 +8429,7 @@ header.fixed .info {
 
 .products_category .info .price{
     margin-top: 9px;
-    font-family: AGOpus;
+    font-family: var(--font_family2);
     font-style: normal;
     font-weight: bold;
     font-size: 32px;
